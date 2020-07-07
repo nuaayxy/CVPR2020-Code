@@ -1,12 +1,12 @@
 # CVPR2020-Code
 
-CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分享CVPR 2020开源项目
+CVPR 2020 papers with opensource code
 
-关于往年CV顶会论文（如CVPR 2019、ICCV 2019、ECCV 2018）以及其他优质CV论文和大盘点，详见： https://github.com/amusi/daily-paper-computer-vision 
+also chinese version： https://github.com/amusi/daily-paper-computer-vision 
 
 - [CNN](#CNN)
-- [图像分类](#Image-Classification)
-- [目标检测](#Object-Detection)
+- [Image CLassification](#Image-Classification)
+- [Object-Detection](#Object-Detection)
 - [3D目标检测](#3D-Object-Detection)
 - [视频目标检测](#Video-Object-Detection)
 - [目标跟踪](#Object-Tracking)
@@ -67,41 +67,41 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 **Exploring Self-attention for Image Recognition**
 
-- 论文：https://hszhao.github.io/papers/cvpr20_san.pdf
+- paper：https://hszhao.github.io/papers/cvpr20_san.pdf
 
-- 代码：https://github.com/hszhao/SAN
+- code：https://github.com/hszhao/SAN
 
 **Improving Convolutional Networks with Self-Calibrated Convolutions**
 
-- 主页：https://mmcheng.net/scconv/
+- page：https://mmcheng.net/scconv/
 
-- 论文：http://mftp.mmcheng.net/Papers/20cvprSCNet.pdf
-- 代码：https://github.com/backseason/SCNet
+- paper：http://mftp.mmcheng.net/Papers/20cvprSCNet.pdf
+- code：https://github.com/backseason/SCNet
 
 **Rethinking Depthwise Separable Convolutions: How Intra-Kernel Correlations Lead to Improved MobileNets**
 
-- 论文：https://arxiv.org/abs/2003.13549
-- 代码：https://github.com/zeiss-microscopy/BSConv
+- code：https://arxiv.org/abs/2003.13549
+- paper：https://github.com/zeiss-microscopy/BSConv
 
 <a name="Image-Classification"></a>
 
-# 图像分类
+# image classification
 
 **Compositional Convolutional Neural Networks: A Deep Architecture with Innate Robustness to Partial Occlusion**
 
-- 论文：https://arxiv.org/abs/2003.04490
+- paper：https://arxiv.org/abs/2003.04490
 
-- 代码：https://github.com/AdamKortylewski/CompositionalNets
+- code：https://github.com/AdamKortylewski/CompositionalNets
 
 **Spatially Attentive Output Layer for Image Classification**
 
-- 论文：https://arxiv.org/abs/2004.07570 
+- paper：https://arxiv.org/abs/2004.07570 
 
-- 代码（好像被原作者删除了）：https://github.com/ildoonet/spatially-attentive-output-layer 
+- code：https://github.com/ildoonet/spatially-attentive-output-layer 
 
 <a name="Object-Detection"></a>
 
-# 目标检测
+# Object-Detection
 
 **Overcoming Classifier Imbalance for Long-tail Object Detection with Balanced Group Softmax**
 
